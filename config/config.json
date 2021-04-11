@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "chacal3012",
+    "database": "apiSequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "chacal3012",
+    "database": "apiSequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "chacal3012",
+    "database": "apiSequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
